@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Me chamo Rafael Rosman Rodrigues Montrezol :zap:
 
-- Sou estudante :books: de Ciências da Computação pela Universidade Estadual de Maringá
+- Sou formado :books: em Ciências da Computação pela Universidade Estadual de Maringá
 
 - Atualmente busco estudar e aprimorar meus conhecimentos nas seguintes tecnologias :computer:
   
